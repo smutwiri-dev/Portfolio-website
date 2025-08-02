@@ -1,0 +1,111 @@
+/* ===== Portfolio styling ===== */
+* {
+    margin: 0; /* Removes default margins */
+    padding: 0; /* Removes default paddings */
+    box-sizing: border-box; /* Keeps widths consistent */
+}
+
+/* ===== PAGE STYLING ===== */
+body {
+    font-family: Arial, sans-serif; /* font */
+    background-color: #f5d9f8; 
+    color: #333; /* Text colour */
+    line-height: 1.6; /* Better readability */
+}
+
+/* ===== HEADER ===== */
+header {
+    background-color: #56375a;
+    color: white; /* text colour*/
+    text-align: center; 
+    padding: 15px; /* Space inside header */
+}
+
+header h1 {
+    margin-bottom: 10px; /* Space below name */
+}
+
+/* ===== NAVIGATION ===== */
+nav a {
+    color: white;
+    text-decoration: none; 
+    margin: 0 10px; 
+}
+
+nav a:hover {
+     color: #d3b1ee; /* hover effect */
+}
+
+/* ===== SECTIONS ===== */
+section {
+    background-color: #F3E5F5; /* White box background */
+    margin: 20px auto; /* Space between sections */
+    padding: 15px; /* Inner padding */
+    max-width: 800px; /* Keep content narrow for readability */
+    border-radius: 5px; /* Slightly rounded corners */
+}
+
+/* ===== HEADINGS ===== */
+h2 {
+    margin-bottom: 10px; /* Space below headings */
+    color: #333333; /* Heading colour */
+}
+
+/* ===== LIST STYLING ===== */
+ul {
+    list-style-type: disc; /* Bullet points */
+    padding-left: 20px; /* Indent bullets */
+    margin-top: 10px; /* Space above list */
+}
+
+/* ===== LINKS ===== */
+a {
+    color: #9B30FF;
+}
+
+a:hover {
+    color: #004999;
+}
+
+/* ===== FORM ===== */
+form {
+    display: flex; /* Arrange items in a column */
+    flex-direction: column;
+}
+
+label {
+    margin-top: 10px; /* Space above label */
+}
+
+input, textarea {
+    padding: 8px; /* Space inside input */
+    margin-top: 5px; /* Small space above */
+    border: 1px solid #aaa; /* Light grey border */
+    border-radius: 3px; /* Rounded edges */
+}
+
+textarea {
+    resize: vertical; /* Allow vertical resizing */
+    min-height: 100px; /* Set minimum height */
+}
+
+input[type="submit"] {
+    background-color: #333; 
+    color: white; /* Text colour */
+    border: none; 
+    margin-top: 15px; /* Space above button */
+    cursor: pointer; /* Pointer on hover */
+}
+
+input[type="submit"]:hover {
+    background-color: #555; /* Hover effect */
+}
+
+/* ===== FOOTER ===== */
+footer {
+    background-color: #56375a;
+    color: white; /* White text */
+    text-align: center; 
+    padding: 10px; /* Space inside footer */
+    margin-top: 20px; /* Space above footer */
+}
