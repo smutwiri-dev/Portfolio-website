@@ -1,4 +1,4 @@
-##  Personal Portfolio Website
+##  Susan Mutwiri - Portfolio Website
 
 This is my first **personal portfolio website**, created using HTML and CSS.  
 It showcases my background, skills, interests, and projects in a clean and professional format.
@@ -10,7 +10,6 @@ It showcases my background, skills, interests, and projects in a clean and profe
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [File Structure](#file-structure)
 - [Deployment](#deployment)
 
 ---
@@ -33,9 +32,9 @@ The aim was to:
 - **Education Section** – Academic qualifications and downloadable CV.
 - **Programming Languages** – The languages i'm conversant with at different levels.
 - **Interests Section** – What excites me about technology.
-- **Projects Section** – Details about my projects with links to GitHub
-- **Contact Section** – Email and GitHub profile link
-- **Footer** – Copyright notice
+- **Projects Section** – Details about my projects with links to GitHub.
+- **Contact Section** – A contact form.
+- **Footer** – Copyright notice.
 
 ---
 
@@ -46,13 +45,16 @@ The aim was to:
 
 ---
 
-##  To get Started, clone the repositor
-- git clone https://github.com/smutwiri-dev/portfolio.git
+##  Getting started
+- First, clone the repository; git clone https://github.com/smutwiri-dev/portfolio.git
+- Open the project folder; cd portfolio website.
+- Open in VS code.
 
 ---
 
 ## Deployment
-- This portfolio is hosted on GitHub Pages for public access.
+- This portfolio is hosted on Netlify for public access.
+- [🔗 View My Portfolio](https://susan-portfolio.netlify.app)
 
 ---
 Creating this portfolio has been really thrilling. 
