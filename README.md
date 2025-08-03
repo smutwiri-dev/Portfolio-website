@@ -54,7 +54,7 @@ The aim was to:
 
 ## Deployment
 - This portfolio is hosted on Netlify for public access.
-- [🔗 View My Portfolio](https://susan-portfolio.netlify.app)
+- [🔗 View My Portfolio](https://susan-m-portfolio.netlify.app/)
 
 ---
 Creating this portfolio has been really thrilling. 
